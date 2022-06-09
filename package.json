@@ -1,0 +1,22 @@
+{
+  "name": "fundamental",
+  "version": "0.0.1",
+  "description": "JavaScript Toolkit for building User Interfaces",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thescripted/fundamental.git"
+  },
+  "author": "Benjamin Kinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thescripted/fundamental/issues"
+  },
+  "homepage": "https://github.com/thescripted/fundamental#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
